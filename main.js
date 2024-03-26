@@ -17,6 +17,6 @@ function sendMSG() {
     xhttp.send()
 }
 
-function test(){
+function test2(){
   
 }
